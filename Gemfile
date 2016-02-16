@@ -8,6 +8,9 @@ gem "jquery-rails"
 gem "turbolinks"
 gem "jbuilder", "~> 2.0"
 gem "sdoc", "~> 0.4.0", group: :doc
+gem "devise"
+gem "twitter-bootstrap-rails", ">= 2.0.3"
+gem "bootstrap-sass"
 
 group :development, :test do
   gem "mysql2",  "~> 0.3.18"
